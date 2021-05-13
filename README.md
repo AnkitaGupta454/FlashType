@@ -2,6 +2,10 @@
 
 A simple typing speed test application
 
+## App is live at
+
+https://ankitagupta454.github.io/FlashType/
+
 ## Libraries used
 
 https://www.npmjs.com/package/typewriter-effect
